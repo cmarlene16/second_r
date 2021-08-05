@@ -28,9 +28,9 @@ Para actualizar futuros repositorios
 
 colocar git add --all
 
-git commit -m "upload files 5"
+git commit -m "upload files 2"
 
-git push -u master
+git push -u origin main
 
 
 
