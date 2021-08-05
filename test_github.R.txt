@@ -1,0 +1,34 @@
+
+Crear cuenta en github
+
+Crear dentro del proyecto de la carpeta README.md
+
+git config --global user.email "marlebe16@hotmail.com"
+git config --global user.name "cmarlene16"
+
+Abrir git CMD
+
+Ubicar el disco, primero especificando d: y luego copiando y pegando la ruta
+
+Verificar que estamos en la carpeta y especificar  en la consola
+
+git init
+
+colocar git add --all
+
+adicionar git commit -m "upload files 5"
+
+git push -u master
+
+Para actualizar futuros repositorios
+
+colocar git add --all
+
+git commit -m "upload files 5"
+
+git push -u master
+
+
+
+
+
