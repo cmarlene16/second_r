@@ -6,6 +6,8 @@ Crear dentro del proyecto de la carpeta README.md
 git config --global user.email "marlebe16@hotmail.com"
 git config --global user.name "cmarlene16"
 
+Crear el proyecto desde git_hun
+
 Abrir git CMD
 
 Ubicar el disco, primero especificando d: y luego copiando y pegando la ruta
@@ -16,9 +18,11 @@ git init
 
 colocar git add --all
 
-adicionar git commit -m "upload files 5"
+adicionar git commit -m "upload files 1"
 
 git push -u master
+
+git branch -M main
 
 Para actualizar futuros repositorios
 
